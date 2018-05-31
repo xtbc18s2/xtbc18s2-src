@@ -1,6 +1,6 @@
 # XTBC18 Source
 
-This is the source for [xtbc18s1.github.io](http://xtbc18s1.github.io). Build and deploy the site with [Hugo](https://gohugo.io/).
+This is the source for [xtbc2.github.io](http://xtbc18s2.github.io). Build and deploy the site with [Hugo](https://gohugo.io/).
 
 For development, run each of the following commands in separate terminals:
 
