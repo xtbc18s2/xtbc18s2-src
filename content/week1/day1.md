@@ -13,7 +13,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist]() | [Day 1, part 1]()
+* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 1, part 1](https://www.youtube.com/watch?v=GOQvgEk9IBM&amp=&t=0s&amp=&index=2)
 
 ## Topics
 
@@ -106,10 +106,10 @@ button.addEventListener('click', (ev) => {
 ## Projects
 
 ### First JS
-[Morning](https://codepen.io/dstrus/pen/eKJaYZ) | [Afternoon]()
+[Morning](https://codepen.io/dstrus/pen/eKJaYZ) | [Afternoon](http://www.kpcb.com/internet-trends)
 
 ### Spellbook
-[Morning](https://github.com/xtbc18s2/spellbook) | [Afternoon]()
+[Morning](https://github.com/xtbc18s2/spellbook) | [Afternoon](https://github.com/xtbc18s2/spellbook/tree/afternoon)
 
 ## Homework
 
