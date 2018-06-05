@@ -106,7 +106,7 @@ button.addEventListener('click', (ev) => {
 ## Projects
 
 ### First JS
-[Morning](https://codepen.io/dstrus/pen/eKJaYZ) | [Afternoon](http://www.kpcb.com/internet-trends)
+[Morning](https://codepen.io/dstrus/pen/eKJaYZ) | [Afternoon](https://codepen.io/dstrus/professor/oyxXBE/)
 
 ### Spellbook
 [Morning](https://github.com/xtbc18s2/spellbook) | [Afternoon](https://github.com/xtbc18s2/spellbook/tree/afternoon)
