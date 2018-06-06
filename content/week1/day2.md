@@ -76,7 +76,7 @@ Afternoon:
 
 ## Presentations
 
-* <a target="_blank" href="">Review: Functions</a>
+* <a target="_blank" href="/day02.pdf">Review: Functions</a>
 
 ## Projects
 

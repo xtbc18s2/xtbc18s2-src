@@ -13,7 +13,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA)
+* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 3, part 1](https://www.youtube.com/watch?v=ABbWcqaRbrg&index=25&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA)
  
 ## Topics
 
@@ -178,7 +178,7 @@ app.sayYeah.bind('w00t')() // "Yeah, w00t"
 
 ## Presentations
 
-* <a target="_blank" href="">Day 3 Review</a>
+* <a target="_blank" href="/03-events-functions-arrays-objects.pdf">Day 3 Review</a>
 
 ## Projects
 
