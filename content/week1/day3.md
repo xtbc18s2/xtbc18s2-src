@@ -43,9 +43,7 @@ This will produce the following markup:
 &lt;/div&gt;
 {{< /code >}}
 
-
 * ["Utilizing" the Developer Tools: Selecting and Inspecting DOM Elements](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
-
 
 ### Arrays
 
@@ -59,18 +57,13 @@ This will produce the following markup:
 * Retrieving property values
 * Setting property values
 
-### Handling exceptions
-
-* `try`
-* `catch`
-* `finally`
-
 ### Styling
 
 #### Flexbox
 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox.io](https://flexbox.io/)
+* [Flex-grow](https://css-tricks.com/almanac/properties/f/flex-grow/)
 
 #### Tips and Tricks on CSS
 
@@ -182,6 +175,10 @@ app.sayYeah.bind('w00t')() // "Yeah, w00t"
 {{< /code >}}
 
 * [MDN Docs on ES6 Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+## Presentations
+
+* <a target="_blank" href="">Day 3 Review</a>
 
 ## Projects
 

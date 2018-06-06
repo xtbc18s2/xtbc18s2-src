@@ -25,18 +25,6 @@ Afternoon:
   * Element name (`div`, `h1`, `p`, etc.)
   * Element ID (`#theID`, `div#theID`, etc.)
   * Class name (`.theClass`, `p.theClass`, etc.)
-* Basic DOM manipulation
-  * `document.querySelector`/`document.querySelectorAll`
-  * `.textContent`
-  * `.innerHTML`
-* Developer console
-  * `console.log`
-  * `debugger`
-* Basic [event](https://www.w3schools.com/js/js_events.asp) handling
-  * [Events in JavaScript](https://www.kirupa.com/html5/javascript_events.htm) - blog post with more detail than we discussed in class
-  * `.addEventListener()` - [MDN docs](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
-  * `.preventDefault()`
-  * `.target`
 
 ## Examples
 

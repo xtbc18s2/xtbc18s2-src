@@ -13,7 +13,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 2, part 1](https://www.youtube.com/watch?v=Olz7MncGYJA&index=8)
+* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 2, part 1](https://www.youtube.com/watch?v=Olz7MncGYJA&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA&index=8)
 
 ## Topics
 
@@ -22,6 +22,21 @@ Afternoon:
 * Function Declarations
 * Function Hoisting ([MDN](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting))
 
+### DOM
+
+* Basic DOM manipulation
+  * `document.querySelector`/`document.querySelectorAll`
+  * `.textContent`
+  * `.innerHTML`
+* Developer console
+  * `console.log`
+  * `debugger`
+* Basic [event](https://www.w3schools.com/js/js_events.asp) handling
+  * [Events in JavaScript](https://www.kirupa.com/html5/javascript_events.htm) - blog post with more detail than we discussed in class
+  * `.addEventListener()` - [MDN docs](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+  * `.preventDefault()`
+  * `.target`
+
 ### Git
 
 * [Git Guide](http://rogerdudler.github.io/git-guide/)
@@ -29,11 +44,6 @@ Afternoon:
 * [Understanding Git (part 1): Explain It Like I'm Five] (https://hackernoon.com/understanding-git-fcffd87c15a3)
 
 <div class="img github-flow"></div>
-
-### DOM
-* Creating elements with `document.createElement`
-* Setting style properties with `someElement.style.stylePropertyName`
-* Appending child elements with `someElement.appendChild`
 
 ### Other Topics
 
@@ -66,7 +76,7 @@ Afternoon:
 
 ## Presentations
 
-* <a target="_blank" href="/day02.pdf">Review: HTML and the DOM</a>
+* <a target="_blank" href="">Review: Functions</a>
 
 ## Projects
 
