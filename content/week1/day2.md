@@ -64,32 +64,6 @@ Afternoon:
   anotherExcellentFunction() // => 'This function is also excellent!'
 {{< /code >}}
 
-
-### DOM
-If we start with the following markup:
-{{< code html >}}
-&lt;div id=&quot;my-div&quot;&gt;&lt;/div&gt;
-{{< /code >}}
-We can add additional markup to it programmatically using JavaScript.  One way is to create new HTML elements using `document.createElement`, and adding them by using `appendChild`.  Styling of the element can even be changed by manipulating the element's `style` property.
-
-{{< code js >}}
-// create an h1 and modify text content and color
-const heading = document.createElement('h1')
-heading.textContent = "This is the best heading I've ever seen"
-heading.style.color = "red"
-
-// get a reference to the existing div and add the heading as a child element
-const div = document.querySelector('#my-div')
-div.appendChild(heading)
-{{< /code >}}
-
-This will produce the following markup:
-{{< code html >}}
-&lt;div id=&quot;my-div&quot;&gt;
-  &lt;h1 style=&quot;color: red;&quot;&gt;This is the best heading I've ever seen&lt;/h1&gt;
-&lt;/div&gt;
-{{< /code >}}
-
 ## Presentations
 
 * <a target="_blank" href="/day02.pdf">Review: HTML and the DOM</a>
