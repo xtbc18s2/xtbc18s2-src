@@ -13,7 +13,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 5, Part 1]()
+* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 5, Part 1](https://www.youtube.com/watch?v=vgOsNnD09qM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA&index=62)
 
 ## Topics
 
@@ -174,9 +174,9 @@ export default App
 
 ## Projects
 
-* Reactrobats on CodePen: [Morning](https://codepen.io/dstrus/professor/XYMVpg/) | [Afternoon]()
+* Reactrobats on CodePen: [Morning](https://codepen.io/dstrus/professor/XYMVpg/) | [Afternoon](https://codepen.io/dstrus/professor/rKyqWr/)
 * [Dwarf-Underground (Original)](https://github.com/xtbc18s2/dwarf-underground)
-* Dwarf-Underground (Edited, with React Components): [Morning](https://github.com/xtbc18s2/dwarf-morning) | [Afternoon]()
+* Dwarf-Underground (Edited, with React Components): [Morning](https://github.com/xtbc18s2/dwarf-morning) | [Afternoon](https://github.com/xtbc18s2/dwarf-afternoon)
 
 ## Homework
 
