@@ -29,6 +29,7 @@ Afternoon:
   * [Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
 * [Controlled](https://facebook.github.io/react/docs/forms.html) vs [Uncontrolled](https://facebook.github.io/react/docs/uncontrolled-components.html) Forms
 * [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
+* Property initializers (and arrow functions)
 
 ## Examples
 
@@ -162,6 +163,58 @@ You can also combine default and named imports in the same line.
 {{< code js >}}
 import MyClass, { myNumber, sayHi } from 'myModule'
 {{< /code >}}
+
+#### Property initializers
+
+{{% aside info "Subject to minor changes" %}}
+[Property initializers](https://github.com/tc39/proposal-class-public-fields) are a [Stage 3 proposal](https://tc39.github.io/process-document/) for ECMAScript, meaning that they're a candidate, but requires further refinement and feedback from implementations and users before it becomes part of the standard. Facebook itself is already using these techniques in production, however.
+{{% /aside %}}
+
+From the proposal:
+
+> "Class instance fields" describe properties intended to exist on instances of a class (and may optionally include initializer expressions for said properties).
+
+We can take advantage of this in React.
+
+[**Read more: Using ES7 property initializers in React**](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)
+
+We can use a property initializer to set the initial value of state without writing a constructor:
+
+{{< code jsx >}}
+class Song extends React.Component {
+  state = {
+    versesRemaining: 5,
+  }
+}
+{{< /code >}}
+
+We can even set default props and use those in the initial state:
+
+{{< code jsx >}}
+class Song extends React.Component {
+  static defaultProps = {
+    autoPlay: false,
+    verseCount: 10,
+  }
+  state = {
+    versesRemaining: this.props.verseCount,
+  }
+}
+{{< /code >}}
+
+#### Property initializers + arrow functions
+
+Combining property initializers and arrow functions gives us a convenient way to auto-bind `this`, since arrow functions inherit `this` from the scope in which they are declared (lexical scoping):
+
+{{< code jsx >}}
+class Something extends React.Component {
+  handleButtonClick = (ev) => {
+    // `this` is bound correctly!
+    this.setState({ buttonWasClicked: true });
+  }
+}
+{{< /code >}}
+
 
 ## Projects
 
