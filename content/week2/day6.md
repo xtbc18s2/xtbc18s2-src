@@ -13,7 +13,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 6, Part 1]()
+* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 6, Part 1](https://www.youtube.com/watch?v=CNMMdeV6F7o&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA&index=67)
 
 ## Topics
 
@@ -165,7 +165,7 @@ import MyClass, { myNumber, sayHi } from 'myModule'
 
 ## Projects
 
-* Chatarang: [Morning](https://github.com/xtbc18s2/chatarang) | [Afternoon]()
+* Chatarang: [Morning](https://github.com/xtbc18s2/chatarang) | [Afternoon](https://github.com/xtbc18s2/chatarang/tree/afternoon)
 
 ## Homework
 
