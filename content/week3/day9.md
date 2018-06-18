@@ -168,6 +168,7 @@ firebase deploy
 ## Projects
 
 * API Party [Morning](https://github.com/xtbc18s2/api-party) | [Afternoon]()
+* Chatarang: [Morning](https://github.com/xtbc18s2/chatarang) | [Afternoon](https://github.com/xtbc18s2/chatarang/tree/afternoon)
 
 ## Homework
 
