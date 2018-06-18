@@ -172,4 +172,18 @@ firebase deploy
 
 ## Homework
 
+#### Chatarang
+
 * Move the list of rooms in state to `Main`, and be sure that the description updates appropriately when changing rooms.
+
+#### API Party
+
+Your assignment, should you choose to accept it (and you should), is to add some more routes to the API Party and fetch data from your favorite APIs. The API you choose is up to you, but be sure to get some data and try to display it in a visually-pleasing way.
+
+In case you don't have a favorite API, here are some suggestions:
+
+* [Google Maps](https://developers.google.com/maps)
+* [The Pokéapi](https://pokeapi.co)
+* [OpenWeatherMap](https://openweathermap.org/api)
+* [Spotify](https://developer.spotify.com/web-api/)
+
