@@ -13,7 +13,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 9, Part 1]()
+* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 9, Part 1](https://www.youtube.com/watch?v=gsWh6N557yU&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA&index=115)
 
 ## Topics
 
@@ -167,7 +167,7 @@ firebase deploy
 
 ## Projects
 
-* API Party [Morning](https://github.com/xtbc18s2/api-party) | [Afternoon]()
+* API Party [Morning](https://github.com/xtbc18s2/api-party) | [Afternoon](https://github.com/xtbc18s2/api-party/tree/afternoon)
 * Chatarang: [Morning](https://github.com/xtbc18s2/chatarang) | [Afternoon](https://github.com/xtbc18s2/chatarang/tree/afternoon)
 
 ## Homework
