@@ -165,6 +165,14 @@ firebase deploy
 `firebase init` will prompt you to answer a bunch of questions about how you want to configure the app you are deploying.  For more information about how to answer those questions, check out the `create-react-app` README [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#firebase).
 {{% /aside %}}
 
+If you receive this message...
+
+> Error: Cannot run login in non-interactive mode. See login:ci to generate a token for use in non-interactive environments.
+
+...run this command instead:
+
+```firebase login --interactive```
+
 ## Projects
 
 * API Party [Morning](https://github.com/xtbc18s2/api-party) | [Afternoon](https://github.com/xtbc18s2/api-party/tree/afternoon)
