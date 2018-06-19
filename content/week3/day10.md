@@ -1,5 +1,5 @@
 ---
-title: "Day 10: Routing in React"
+title: "Day 10: React & Firebase Cont'd"
 weight: 2
 ---
 
