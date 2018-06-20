@@ -42,6 +42,9 @@ Again, you can set database rules in Firebase for your application. In our Chata
 {{< /code >}}
 
 
+IMPORTANT: You must add this to your `firebase.json` file:
+<img src="/headers_firebase.png">
+
 ## Projects
 
 * Chatarang: [Morning](https://github.com/xtbc18s2/chatarang) | [Afternoon](https://github.com/xtbc18s2/chatarang/tree/afternoon)
