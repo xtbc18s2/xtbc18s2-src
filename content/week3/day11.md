@@ -11,7 +11,7 @@ weight: 3
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 11, Part 1]()
+* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 11, Part 1](https://www.youtube.com/watch?v=EtCheepHcg4&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA&index=149)
 
 ## Topics
 
@@ -31,6 +31,13 @@ Afternoon:
 #### Emoji-mart 
 
 Run ```npm install --save emoji-mart``` or ```yarn add emoji-mart``` to install in your Chatarang project.
+
+#### Authorized Domains in Firebase
+
+* If you have the page hosted somewhere else (like GitHub pages) you might see an error message that says access is restricted. You need to change which domains are authorized in Firebase. Go to your Firebase console and select `Authentication` in the `Develop` menu. Then, select the `Sign-in method` from the nav menu.  Click `Add domain` and add additional domains to whitelist for Google or third-party OAuth authentication (like "yourUsername.github.io/yourProjectName").
+
+<img src="/firebase_auth.png">
+
 
 ## Projects
 
