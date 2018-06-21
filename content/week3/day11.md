@@ -7,6 +7,8 @@ weight: 3
 
 ## Lecture Videos
 
+Morning:
+
 * [Playlist](https://www.youtube.com/watch?v=AxtgfBl_yIw&list=PLuT2TqJuwaY-wZ8GKN0bjgCwNVf1WpEGp) | [Day 11, Part 1](https://www.youtube.com/watch?v=ApBCRJZ413g&list=PLuT2TqJuwaY-wZ8GKN0bjgCwNVf1WpEGp&index=141)
 
 Afternoon:
@@ -25,6 +27,8 @@ Afternoon:
 * [Emoji-mart](https://github.com/missive/emoji-mart)
 
 * [Inline SVG vs. Icon Fonts](https://css-tricks.com/icon-fonts-vs-svg/)
+
+* [Stacking Order](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 
 ## Examples
 
