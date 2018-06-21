@@ -13,7 +13,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 12, Part 1]()
+* [Playlist](https://www.youtube.com/watch?v=GOQvgEk9IBM&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA) | [Day 12, Part 1](https://www.youtube.com/watch?v=JTFj0ryhNKQ&list=PLuT2TqJuwaY90mQ7meSdhHMX6FbfCaLNA&index=163)
 
 
 ## Project
@@ -37,6 +37,8 @@ Just kidding. We’ve got a good handle on the basics of React and web developme
 * [CodeWars](https://www.codewars.com/), [HackerRank](https://www.hackerrank.com/), [Exercism](http://exercism.io/) - All are free resources for solving practice problems (and seeing other people’s solutions) in the language of your choice. Excellent for leveling up your skills.
 
 ## React
+
+(Free) React.js Bootcamp from Tyler McGinnis: [React Bootcamp](https://www.youtube.com/watch?v=8GXXGJRDMdQ&list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo)
 
 #### PropTypes
 
