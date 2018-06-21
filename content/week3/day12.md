@@ -9,7 +9,7 @@ weight: 4
 
 Morning:
 
-* [Playlist](https://www.youtube.com/watch?v=AxtgfBl_yIw&list=PLuT2TqJuwaY-wZ8GKN0bjgCwNVf1WpEGp) | [Day 12, Part 1]()
+* [Playlist](https://www.youtube.com/watch?v=AxtgfBl_yIw&list=PLuT2TqJuwaY-wZ8GKN0bjgCwNVf1WpEGp) | [Day 12, Part 1](https://www.youtube.com/watch?v=Dgnu_bxm2cE&list=PLuT2TqJuwaY-wZ8GKN0bjgCwNVf1WpEGp&index=157)
 
 Afternoon:
 
